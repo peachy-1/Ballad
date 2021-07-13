@@ -9,5 +9,5 @@ End Code
 
 <address>
     <strong>Email:</strong>   <a href="gregoryca1@etsu.edu">Gregoryca1@etsu.edu</a><br />
-   
+    <strong>Phone:</strong> (423)620-3530
 </address>
